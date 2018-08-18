@@ -1,4 +1,3 @@
-
 public class Proprietario {
 	String nome;
 	int cnh;

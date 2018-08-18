@@ -1,0 +1,6 @@
+public class Carro {
+	String marca;
+	String modelo;
+	Proprietario proprietario;
+	Placa placa;
+}

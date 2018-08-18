@@ -1,4 +1,3 @@
-
 public class Placa {
 	String placa;
 	int tipo;

@@ -1,4 +1,3 @@
-
 public class CarroMain {
 	public static void main(String[] args) {
 		
@@ -11,6 +10,12 @@ public class CarroMain {
 	placa1.placa = "OAT-3966";
 	placa1.tipo = 6;
 	
+
+    Motor motor1 = new Motor();
+    
+    Carro carro1 = new Carro("DeLorean", "SUV", proprietario1,
+placa1, motor1);
+
 	System.out.println(placa1.getDescricao());
 	System.out.println(proprietario1.getDescricao());
 	
