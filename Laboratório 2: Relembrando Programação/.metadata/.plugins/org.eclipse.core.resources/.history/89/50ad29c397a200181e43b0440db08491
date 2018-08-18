@@ -1,0 +1,18 @@
+
+public class Placa {
+	String placa;
+	int tipo;
+	
+	Placa(){
+		placa = "";
+		tipo = 0;
+	}
+	
+	Placa(String placa, int tipo){
+		this.placa = placa;
+		this.tipo = tipo;
+	}
+	
+	
+
+}

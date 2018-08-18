@@ -1,0 +1,22 @@
+
+public class Placa {
+	String placa;
+	int tipo;
+	
+	Placa(){
+		placa = "";
+		tipo = 0;
+	}
+	
+	Placa(String placa, int tipo){
+		this.placa = placa;
+		this.tipo = tipo;
+	}
+	
+	String getTipoString() {
+		if(tipo == 1) {
+			return "Normal";
+		}
+	}
+
+}

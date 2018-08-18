@@ -1,0 +1,9 @@
+
+public class CarroMain {
+	public static void main(String[] args) {
+		
+	Proprietario proprietario1 = new Proprietario();
+		
+	getDescricao();
+	}
+}

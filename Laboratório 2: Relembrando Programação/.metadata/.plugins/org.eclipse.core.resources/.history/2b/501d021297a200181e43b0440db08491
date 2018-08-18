@@ -1,0 +1,13 @@
+
+public class CarroMain {
+	public static void main(String[] args) {
+		
+	Proprietario proprietario1 = new Proprietario();
+	proprietario1.anoNascimento = 1;
+	
+	System.out.println("O ano é:  " +proprietario1.anoNascimento);
+	System.out.println(proprietario1.getDescricao());
+	
+	
+	}
+}
