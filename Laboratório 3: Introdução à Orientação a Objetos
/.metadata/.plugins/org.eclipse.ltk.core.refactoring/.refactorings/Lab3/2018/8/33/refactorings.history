@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;Proprietario2.java&apos; to &apos;Proprietario.java&apos;&#x0A;- Original project: &apos;Lab3&apos;&#x0A;- Original element: &apos;Proprietario2.java&apos;&#x0A;- Renamed element: &apos;Proprietario.java&apos;" description="Rename compilation unit &apos;Proprietario2.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Proprietario2.java" name="Proprietario.java" references="false" stamp="1534567333564" version="1.0"/>
-</session>
