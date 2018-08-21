@@ -21,6 +21,8 @@ public class FolhaPagamento {
 		
 		double salarioLiquido = (salarioBruto - impostoDeRenda) - inss;
 		System.out.printf("Salario Liquido: R$%.2f\n", salarioLiquido);
+		
+		scan.close();
 	}
 }
 

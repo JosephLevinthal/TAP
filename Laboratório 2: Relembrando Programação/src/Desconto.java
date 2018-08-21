@@ -17,6 +17,7 @@ public class Desconto {
 			float precoDesconto = (preco * 5) / 100;
 			precofinal = preco - precoDesconto;
 			System.out.printf("%.2f", precofinal);
-		}	
+		}
+		scan.close();
 	}
 }

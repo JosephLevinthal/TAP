@@ -34,5 +34,6 @@ public class ArteAscii {
 			numero2 = 0;
 			System.out.println();	
 		}
+		scan.close();
 	}
 }

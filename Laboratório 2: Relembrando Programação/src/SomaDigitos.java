@@ -15,5 +15,6 @@ public class SomaDigitos {
 			numero = numero /10;
 		}
 		System.out.printf("%d", soma);
+		scan.close();
 	}
 }

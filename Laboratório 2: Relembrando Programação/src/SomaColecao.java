@@ -16,5 +16,6 @@ public class SomaColecao {
 			}
 		total = total + 1;
 		System.out.println(total);
+		scan.close();
 	}
 }

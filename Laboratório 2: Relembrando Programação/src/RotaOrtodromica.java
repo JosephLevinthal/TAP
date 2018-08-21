@@ -1,7 +1,3 @@
-/* Aluno: Joseph Viana Levinthal de Oliveira
- * Matrícula: 21553691
- */
-
 import java.util.Scanner;
 
 public class RotaOrtodromica {
@@ -28,5 +24,6 @@ public class RotaOrtodromica {
 		g2 = Math.toDegrees(g2);
 		
 		System.out.printf("A distancia entre os pontos (%.6f, %.6f) e (%.6f, %.6f) e de %.2f km", t1,g1,t2,g2,d);
+		scan.close();
 	}
 }

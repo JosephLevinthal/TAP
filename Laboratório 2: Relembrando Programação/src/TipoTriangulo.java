@@ -27,5 +27,6 @@ public class TipoTriangulo {
       }
       }
       }
+      scan.close();
     }
 }

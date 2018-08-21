@@ -31,5 +31,6 @@ public class AnimaisCedulas {
 			default:
 				System.out.println("erro");
 		}
+		scan.close();
 	}
 }

@@ -13,5 +13,6 @@ public class ValorExpoente {
 			expoente = expoente + 1;
 		}
 		System.out.println(expoente);
+		scan.close();
 	}
 }

@@ -16,5 +16,6 @@ public class ParImpar {
 				numero = scan.nextInt();
 			}
 		}
+		scan.close();
 	}
 }

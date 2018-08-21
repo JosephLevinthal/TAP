@@ -24,6 +24,7 @@ public class Xadrez {
 			System.out.println();
 			numero2 = numero;
 			linhas = linhas-1;
-		}	
+		}
+		scan.close();
 	}
 }
