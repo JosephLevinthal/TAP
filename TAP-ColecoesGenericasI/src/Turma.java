@@ -54,6 +54,6 @@ public class Turma {
 			descricao = descricao + "  - Aluno " + cont +": " + Alunoatual.getDescricao()+ "\n";
 			cont ++;
 		}
-		return descricao;	
+		return descricao;
 	}
 }
